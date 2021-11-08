@@ -1,16 +1,18 @@
-### Hi there 👋
+```py
+from GitHub import ReadMe
 
-<!--
-**Kr0n0z1337/Kr0n0z1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Kr0n0z1337(ReadMe):
+    "/kr0n0z1337/Kr0n0z1337/README.md"
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.username = "Kr0n0z"
+        self.contacts = {
+            "Discord": "Kr0n0zٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴ#1838",
+            "Telegram": None
+        }
+        self.alises = [
+            "Kr0n0z",
+            "Kr0n0z1337"
+        ]
+       
+        self.operating_system = "Windows, Linux"

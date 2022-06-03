@@ -11,8 +11,8 @@
                    .##@                   -----------------
                   .####@                  Username: Kr0n0z69
                   @#####@                 Alias: Kr0n0z, Kr0n0z1337
-                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
-               .##@o@#####@               Website: https://kanekiweb.tk/
+                . *######@                Discord: https://discord.com/users/717434999116267566
+               .##@o@#####@               Website: https://kr0n0z
               /############@            
              /##############@             Infos: 16 y/o self-taught newbie dev and Car Enthusiast
             @######@**%######@            
@@ -24,6 +24,7 @@
      *`                            `*     
 
 ```
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kr0n0z69&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
 	<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/717434999116267566)](https://discord.com/users/717434999116267566)"/>

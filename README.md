@@ -26,3 +26,4 @@
 ```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/717434999116267566)](https://discord.com/users/717434999116267566)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kr0n0z69&theme=dark)](https://git.io/streak-stats)

@@ -4,7 +4,7 @@
 
 -->
 
-```cmd
+```css
 [kr0n0z@archlinux ~]$ neofetch
 
                     -@                    kr0n0z@archlinux

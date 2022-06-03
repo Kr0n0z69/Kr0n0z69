@@ -1,17 +1,36 @@
-```py
-from GitHub import ReadMe
+<!-- 
 
-class Kr0n0z1337(ReadMe):
-    "/kr0n0z1337/Kr0n0z1337/README.md"
+	~> Kaneki Web, if you are seeing this, I follow you.
 
-    def __init__(self):
-        self.username = "Kr0n0z"
-        self.contacts = {
-            "Discord": "Kr0n0zٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴٴ#1838",   
-        }
-        self.alises = [
-            "Kr0n0z",
-            "Kr0n0z1337"
-        ]
-       
-        self.operating_system = "Windows, Linux"
+-->
+
+```css
+[kr0n0z@archlinux ~]$ neofetch
+
+                    -@                    kr0n0z@archlinux
+                   .##@                   -----------------
+                  .####@                  Username: Kr0n0z69
+                  @#####@                 Alias: Kr0n0z, Kr0n0z1337
+                . *######@                Discord: https://discord.gg/BTdFXbZ9t7
+               .##@o@#####@               Website: https://kanekiweb.tk/
+              /############@            
+             /##############@             Infos: 16 y/o self-taught newbie dev and Car Enthusiast
+            @######@**%######@            
+           @######`     %#####o           
+          @######@       ######%          
+        -@#######h       ######@.`        
+       /#####h**``       `**%@####@       
+      @H@*`                    `*%#@    
+     *`                            `*     
+
+```
+
+<p align="center">
+	<img src="[![Discord Presence](https://lanyard.cnrad.dev/api/717434999116267566)](https://discord.com/users/717434999116267566)"/>
+<!-- 	<br>
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=KanekiWeb&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=KanekiWeb&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanekiWeb&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark"> -->
+</p>

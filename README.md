@@ -12,7 +12,7 @@
                   .####@                  Username: Kr0n0z69
                   @#####@                 Alias: Kr0n0z, Kr0n0z1337
                 . *######@                Discord: https://discord.com/users/717434999116267566
-               .##@o@#####@               Website: https://kr0n0z
+               .##@o@#####@               Website: https://kr0n0z.me
               /############@            
              /##############@             Infos: 16 y/o self-taught Newbie Dev and Car Enthusiast!
             @######@**%######@            

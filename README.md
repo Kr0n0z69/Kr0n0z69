@@ -14,7 +14,7 @@
                 . *######@                Discord: https://discord.com/users/717434999116267566
                .##@o@#####@               Website: https://kr0n0z.me
               /############@            
-             /##############@             Infos: 16 y/o self-taught Newbie Dev and Car Enthusiast!
+             /##############@             Infos: 19 y/o self-taught Newbie Dev and Car Enthusiast!
             @######@**%######@            
            @######`     %#####o           
           @######@       ######%          
